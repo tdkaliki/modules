@@ -1,0 +1,392 @@
+{
+    "plink2 - plink2_input - pca - stub": {
+        "content": [
+            {
+                "0": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenvec:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "1": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenval:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "2": [
+                    
+                ],
+                "3": [
+                    
+                ],
+                "4": [
+                    
+                ],
+                "5": [
+                    
+                ],
+                "6": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.psam:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "7": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.pvar:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "8": [
+                    "versions.yml:md5,437f4f140b39e96c30377d27244c7a35"
+                ],
+                "bed": [
+                    
+                ],
+                "bim": [
+                    
+                ],
+                "eigenval": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenval:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "eigenvec": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenvec:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "fam": [
+                    
+                ],
+                "pgen": [
+                    
+                ],
+                "psam": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.psam:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "pvar": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.pvar:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "versions": [
+                    "versions.yml:md5,437f4f140b39e96c30377d27244c7a35"
+                ]
+            }
+        ],
+        "meta": {
+            "nf-test": "0.9.2",
+            "nextflow": "24.10.4"
+        },
+        "timestamp": "2025-03-26T12:00:58.659074"
+    },
+    "plink2 - plink1_input - pca": {
+        "content": [
+            {
+                "0": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenvec:md5,20e68956b9d00f2ff298ead7cd710695"
+                    ]
+                ],
+                "1": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenval:md5,2e12b0aa365de299b7f99c0f41b6d6b1"
+                    ]
+                ],
+                "2": [
+                    
+                ],
+                "3": [
+                    
+                ],
+                "4": [
+                    
+                ],
+                "5": [
+                    
+                ],
+                "6": [
+                    
+                ],
+                "7": [
+                    
+                ],
+                "8": [
+                    "versions.yml:md5,437f4f140b39e96c30377d27244c7a35"
+                ],
+                "bed": [
+                    
+                ],
+                "bim": [
+                    
+                ],
+                "eigenval": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenval:md5,2e12b0aa365de299b7f99c0f41b6d6b1"
+                    ]
+                ],
+                "eigenvec": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenvec:md5,20e68956b9d00f2ff298ead7cd710695"
+                    ]
+                ],
+                "fam": [
+                    
+                ],
+                "pgen": [
+                    
+                ],
+                "psam": [
+                    
+                ],
+                "pvar": [
+                    
+                ],
+                "versions": [
+                    "versions.yml:md5,437f4f140b39e96c30377d27244c7a35"
+                ]
+            }
+        ],
+        "meta": {
+            "nf-test": "0.9.2",
+            "nextflow": "24.10.4"
+        },
+        "timestamp": "2025-03-26T11:22:04.394117"
+    },
+    "plink2 - plink2_input - pca": {
+        "content": [
+            {
+                "0": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenvec:md5,20e68956b9d00f2ff298ead7cd710695"
+                    ]
+                ],
+                "1": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenval:md5,2e12b0aa365de299b7f99c0f41b6d6b1"
+                    ]
+                ],
+                "2": [
+                    
+                ],
+                "3": [
+                    
+                ],
+                "4": [
+                    
+                ],
+                "5": [
+                    
+                ],
+                "6": [
+                    
+                ],
+                "7": [
+                    
+                ],
+                "8": [
+                    "versions.yml:md5,437f4f140b39e96c30377d27244c7a35"
+                ],
+                "bed": [
+                    
+                ],
+                "bim": [
+                    
+                ],
+                "eigenval": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenval:md5,2e12b0aa365de299b7f99c0f41b6d6b1"
+                    ]
+                ],
+                "eigenvec": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenvec:md5,20e68956b9d00f2ff298ead7cd710695"
+                    ]
+                ],
+                "fam": [
+                    
+                ],
+                "pgen": [
+                    
+                ],
+                "psam": [
+                    
+                ],
+                "pvar": [
+                    
+                ],
+                "versions": [
+                    "versions.yml:md5,437f4f140b39e96c30377d27244c7a35"
+                ]
+            }
+        ],
+        "meta": {
+            "nf-test": "0.9.2",
+            "nextflow": "24.10.4"
+        },
+        "timestamp": "2025-03-26T11:22:12.835818"
+    },
+    "plink2 - plink1_input - pca - stub": {
+        "content": [
+            {
+                "0": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenvec:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "1": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenval:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "2": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.bim:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "3": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.bed:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "4": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.fam:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "5": [
+                    
+                ],
+                "6": [
+                    
+                ],
+                "7": [
+                    
+                ],
+                "8": [
+                    "versions.yml:md5,437f4f140b39e96c30377d27244c7a35"
+                ],
+                "bed": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.bed:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "bim": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.bim:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "eigenval": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenval:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "eigenvec": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.eigenvec:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "fam": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "test.fam:md5,d41d8cd98f00b204e9800998ecf8427e"
+                    ]
+                ],
+                "pgen": [
+                    
+                ],
+                "psam": [
+                    
+                ],
+                "pvar": [
+                    
+                ],
+                "versions": [
+                    "versions.yml:md5,437f4f140b39e96c30377d27244c7a35"
+                ]
+            }
+        ],
+        "meta": {
+            "nf-test": "0.9.2",
+            "nextflow": "24.10.4"
+        },
+        "timestamp": "2025-03-26T12:00:48.638797"
+    }
+}
